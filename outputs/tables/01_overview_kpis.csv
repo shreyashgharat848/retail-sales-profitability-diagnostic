@@ -1,0 +1,2 @@
+order_lines,orders,customers,total_sales,total_profit,profit_margin_pct,avg_discount_pct,loss_making_lines,loss_line_pct
+9994,5009,793,2297201.0,286397.0,12.47,15.62,1871,18.7

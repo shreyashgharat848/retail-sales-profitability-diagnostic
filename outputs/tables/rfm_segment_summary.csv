@@ -1,0 +1,5 @@
+rfm_segment,customers,avg_recency_days,avg_orders,avg_spend,total_sales,total_profit,pct_customers,pct_sales,profit_margin_pct
+Champions,246,98.4,8.7,4839.3,1190478.2,159189.8,31.0,51.8,13.4
+Recent buyers,198,19.6,6.8,2713.6,537298.4,71366.4,25.0,23.4,13.3
+At risk,262,228.2,5.0,2020.0,529233.8,54356.3,33.0,23.0,10.3
+Lost / Low value,87,337.1,2.6,462.0,40190.6,1484.6,11.0,1.7,3.7

@@ -1,0 +1,6 @@
+model,MAPE_2017_pct
+HW additive trend + multiplicative season,20.77
+HW additive trend + additive season,22.58
+HW damped trend + multiplicative season,22.98
+HW no trend + multiplicative season,23.32
+Seasonal naive (benchmark),24.52

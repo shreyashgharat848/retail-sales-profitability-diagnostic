@@ -1,0 +1,794 @@
+customer_id,customer_name,customer_type,recency_days,frequency,monetary,total_profit,rfm_segment
+AA-10315,Alex Avila,Consumer,185,5,5563.56,-362.88,At risk
+AA-10375,Allen Armold,Consumer,20,9,1056.39,277.38,Recent buyers
+AA-10480,Andrew Allen,Consumer,260,4,1790.51,435.83,At risk
+AA-10645,Anna Andreadi,Consumer,56,6,5086.94,857.8,Champions
+AB-10015,Aaron Bergman,Consumer,416,3,886.16,129.35,Lost / Low value
+AB-10060,Adam Bellavance,Home Office,55,8,7755.62,2054.59,Champions
+AB-10105,Adrian Barton,Consumer,42,10,14473.57,5444.81,Champions
+AB-10150,Aimee Bixby,Consumer,42,5,966.71,313.66,At risk
+AB-10165,Alan Barnes,Consumer,26,8,1113.84,220.81,Recent buyers
+AB-10255,Alejandro Ballentine,Home Office,167,9,914.53,264.57,At risk
+AB-10600,Ann Blume,Corporate,51,4,1515.86,-274.96,At risk
+AC-10420,Alyssa Crouse,Corporate,233,3,925.8,-62.13,At risk
+AC-10450,Amy Cox,Consumer,12,7,5527.85,1366.01,Recent buyers
+AC-10615,Ann Chong,Corporate,7,5,2537.69,298.83,Recent buyers
+AC-10660,Anna Chung,Consumer,283,5,657.32,-28.7,At risk
+AD-10180,Alan Dominguez,Home Office,30,8,6106.88,1869.93,Champions
+AF-10870,Art Ferguson,Consumer,42,7,2052.91,317.97,Recent buyers
+AF-10885,Art Foster,Consumer,416,4,861.56,-163.12,At risk
+AG-10270,Alejandro Grove,Consumer,279,5,2582.9,732.74,At risk
+AG-10300,Aleksandra Gannaway,Corporate,119,4,367.55,59.29,Lost / Low value
+AG-10330,Alex Grayson,Consumer,9,5,660.97,-5.14,Recent buyers
+AG-10390,Allen Goldenen,Consumer,115,5,200.94,69.28,Lost / Low value
+AG-10495,Andrew Gjertsen,Corporate,79,8,2356.86,295.67,Champions
+AG-10525,Andy Gerbode,Corporate,846,4,1455.04,-152.76,At risk
+AG-10675,Anna Gayman,Consumer,98,7,3489.04,-246.43,Champions
+AG-10765,Anthony Garverick,Home Office,78,4,170.58,-8.43,Lost / Low value
+AG-10900,Arthur Gainer,Consumer,97,10,4510.8,343.68,Champions
+AH-10030,Aaron Hawkins,Corporate,13,7,1744.7,365.22,Recent buyers
+AH-10075,Adam Hart,Corporate,35,10,3250.34,281.19,Champions
+AH-10120,Adrian Hane,Home Office,61,7,1735.51,-2.31,Champions
+AH-10195,Alan Haines,Corporate,56,4,1587.45,-378.55,At risk
+AH-10210,Alan Hwang,Consumer,7,9,4805.34,1308.55,Recent buyers
+AH-10465,Amy Hunt,Consumer,231,5,2495.39,-196.12,At risk
+AH-10585,Angele Hood,Consumer,22,4,738.5,83.96,Recent buyers
+AH-10690,Anna Häberlin,Corporate,411,12,7888.29,1298.02,Champions
+AI-10855,Arianne Irving,Consumer,14,10,4375.79,867.73,Recent buyers
+AJ-10780,Anthony Jacobs,Corporate,76,7,4867.34,150.71,Champions
+AJ-10795,Anthony Johnson,Corporate,167,7,4501.39,1158.71,Champions
+AJ-10945,Ashley Jarboe,Consumer,86,7,1839.24,521.14,Champions
+AJ-10960,Astrea Jones,Consumer,75,3,629.25,60.43,Lost / Low value
+AM-10360,Alice McCarthy,Corporate,29,5,814.01,194.99,Recent buyers
+AM-10705,Anne McFarland,Consumer,163,8,5664.02,1085.73,Champions
+AO-10810,Anthony O'Donnell,Corporate,502,1,161.28,12.1,Lost / Low value
+AP-10720,Anne Pryor,Home Office,42,8,1638.55,285.79,Recent buyers
+AP-10915,Arthur Prichep,Consumer,99,10,3323.56,579.31,Champions
+AR-10345,Alex Russell,Corporate,112,4,1055.69,-221.05,At risk
+AR-10405,Allen Rosenblatt,Corporate,126,5,2236.13,-98.76,At risk
+AR-10510,Andrew Roberts,Consumer,15,5,264.86,43.67,Recent buyers
+AR-10540,Andy Reiter,Consumer,7,6,6608.45,2884.62,Recent buyers
+AR-10570,Anemone Ratner,Consumer,535,1,88.15,32.63,Lost / Low value
+AR-10825,Anthony Rawles,Corporate,59,8,4523.34,494.84,Champions
+AS-10045,Aaron Smayling,Corporate,89,7,3050.69,-253.57,Champions
+AS-10090,Adam Shillingsburg,Consumer,29,9,3255.31,64.54,Champions
+AS-10135,Adrian Shami,Home Office,42,2,58.82,21.85,Lost / Low value
+AS-10225,Alan Schoenberger,Corporate,23,5,4260.78,719.78,Recent buyers
+AS-10240,Alan Shonely,Consumer,193,7,584.61,33.72,At risk
+AS-10285,Alejandro Savely,Corporate,20,6,3214.24,354.63,Recent buyers
+AS-10630,Ann Steele,Home Office,93,7,833.4,136.49,At risk
+AT-10435,Alyssa Tate,Home Office,22,6,1171.81,100.88,Recent buyers
+AT-10735,Annie Thurman,Consumer,14,10,3831.86,974.11,Recent buyers
+AW-10840,Anthony Witt,Consumer,21,4,649.38,65.77,Recent buyers
+AW-10930,Arthur Wiediger,Home Office,47,7,2852.97,-104.55,Champions
+AY-10555,Andy Yotov,Corporate,15,4,497.01,103.35,Recent buyers
+AZ-10750,Annie Zypern,Consumer,161,6,1622.02,154.95,At risk
+BB-10990,Barry Blumstein,Corporate,106,5,744.34,11.58,At risk
+BB-11545,Brenda Bowman,Corporate,29,9,6765.73,1015.07,Champions
+BC-11125,Becky Castell,Home Office,203,9,2933.68,251.6,Champions
+BD-11320,Bill Donatelli,Consumer,34,12,5718.52,1094.5,Champions
+BD-11500,Bradley Drucker,Consumer,36,6,4411.24,1142.12,Recent buyers
+BD-11560,Brendan Dodson,Home Office,279,2,320.54,116.71,Lost / Low value
+BD-11605,Brian Dahlen,Consumer,98,7,3288.47,634.85,Champions
+BD-11620,Brian DeCherney,Consumer,70,6,1538.11,206.76,At risk
+BD-11635,Brian Derr,Consumer,10,3,582.65,141.53,Recent buyers
+BD-11725,Bruce Degenhardt,Consumer,94,6,1526.5,333.98,At risk
+BD-11770,Bryan Davis,Consumer,328,6,658.47,141.26,At risk
+BE-11335,Bill Eplett,Home Office,120,5,4204.68,1487.77,At risk
+BE-11410,Bobby Elias,Consumer,99,5,2261.44,755.92,At risk
+BE-11455,Brad Eason,Home Office,255,6,1727.65,139.2,At risk
+BF-10975,Barbara Fisher,Corporate,92,7,599.8,227.44,At risk
+BF-11005,Barry Franz,Home Office,40,4,1333.88,-291.38,At risk
+BF-11020,Barry Französisch,Corporate,75,8,2888.51,302.02,Champions
+BF-11080,Bart Folk,Consumer,26,3,272.95,110.93,Lost / Low value
+BF-11170,Ben Ferrer,Home Office,17,11,5907.97,1538.21,Champions
+BF-11215,Benjamin Farhat,Home Office,66,4,1585.16,523.21,At risk
+BF-11275,Beth Fritzler,Corporate,58,3,791.99,25.87,Lost / Low value
+BG-11035,Barry Gonzalez,Consumer,29,8,2798.95,-711.43,Recent buyers
+BG-11695,Brooke Gillingham,Corporate,37,6,1874.17,107.57,Recent buyers
+BG-11740,Bruce Geld,Consumer,58,6,1006.36,119.35,At risk
+BH-11710,Brosina Hoffman,Consumer,24,8,6255.35,802.79,Champions
+BK-11260,Berenike Kampe,Consumer,78,6,659.14,-63.76,At risk
+BM-11140,Becky Martin,Consumer,308,4,11789.63,-1659.96,At risk
+BM-11575,Brendan Murry,Corporate,101,6,808.16,95.58,At risk
+BM-11650,Brian Moss,Corporate,34,11,7294.19,2199.28,Champions
+BM-11785,Bryan Mills,Consumer,219,10,1338.84,137.74,Champions
+BN-11470,Brad Norvell,Corporate,25,4,265.3,36.61,Lost / Low value
+BN-11515,Bradley Nguyen,Consumer,10,5,1459.34,340.71,Recent buyers
+BO-11350,Bill Overfelt,Corporate,138,5,2682.73,278.78,At risk
+BO-11425,Bobby Odegard,Consumer,76,2,130.83,59.45,Lost / Low value
+BP-11050,Barry Pond,Corporate,84,5,983.42,209.78,At risk
+BP-11095,Bart Pistole,Corporate,18,12,2442.04,433.98,Recent buyers
+BP-11155,Becky Pak,Consumer,90,6,1697.86,647.38,At risk
+BP-11185,Ben Peterman,Corporate,2,9,3675.86,363.6,Recent buyers
+BP-11230,Benjamin Patterson,Consumer,40,5,1181.49,-197.27,Recent buyers
+BP-11290,Beth Paige,Consumer,13,7,2475.16,-319.06,Recent buyers
+BS-11365,Bill Shonely,Corporate,559,5,10501.65,2616.06,At risk
+BS-11380,Bill Stewart,Corporate,29,5,3887.83,-17.53,Recent buyers
+BS-11590,Brendan Sweed,Corporate,36,6,2454.93,381.78,Recent buyers
+BS-11665,Brian Stugart,Consumer,583,3,3288.11,238.74,At risk
+BS-11755,Bruce Stewart,Consumer,2,7,2562.38,-113.3,Recent buyers
+BS-11800,Bryan Spruell,Home Office,266,2,949.43,194.05,Lost / Low value
+BT-11305,Beth Thompson,Home Office,337,5,2567.66,417.59,At risk
+BT-11395,Bill Tyler,Corporate,303,6,2186.61,257.92,At risk
+BT-11440,Bobby Trafton,Consumer,561,4,603.88,-77.53,At risk
+BT-11485,Brad Thomas,Home Office,660,2,415.2,126.87,Lost / Low value
+BT-11530,Bradley Talbott,Home Office,92,5,2684.49,409.5,At risk
+BT-11680,Brian Thompson,Consumer,21,7,3196.75,447.75,Recent buyers
+BV-11245,Benjamin Venier,Corporate,335,5,1523.27,315.22,At risk
+BW-11065,Barry Weirich,Consumer,213,3,385.52,-58.29,Lost / Low value
+BW-11110,Bart Watters,Corporate,122,8,4750.36,921.26,Champions
+BW-11200,Ben Wallace,Consumer,204,6,1738.41,247.0,At risk
+CA-11965,Carol Adams,Corporate,97,6,3789.72,1143.38,Champions
+CA-12055,Cathy Armstrong,Home Office,402,5,1679.72,211.26,At risk
+CA-12265,Christina Anderson,Consumer,57,9,2648.29,279.62,Champions
+CA-12310,Christine Abelman,Corporate,14,4,1421.95,246.02,Recent buyers
+CA-12775,Cynthia Arntzen,Consumer,121,7,3041.57,204.49,Champions
+CB-12025,Cassandra Brandow,Consumer,48,10,6076.14,150.21,Champions
+CB-12415,Christy Brittain,Consumer,27,8,1949.2,272.39,Recent buyers
+CB-12535,Claudia Bergmann,Corporate,198,8,4246.46,1049.56,Champions
+CC-12100,Chad Cunningham,Home Office,458,6,1770.94,208.59,At risk
+CC-12145,Charles Crestani,Consumer,107,7,2471.65,392.28,Champions
+CC-12220,Chris Cortes,Consumer,21,12,3913.42,393.96,Champions
+CC-12370,Christopher Conant,Consumer,44,5,12129.07,2177.05,Champions
+CC-12430,Chuck Clark,Home Office,1,10,2870.05,424.66,Recent buyers
+CC-12475,Cindy Chapman,Consumer,40,9,1659.44,154.85,Champions
+CC-12550,Clay Cheatham,Consumer,28,3,113.83,33.87,Lost / Low value
+CC-12610,Corey Catlett,Corporate,35,7,2540.63,331.43,Recent buyers
+CC-12670,Craig Carreira,Consumer,30,7,2269.7,187.84,Recent buyers
+CC-12685,Craig Carroll,Consumer,800,4,2854.12,850.16,At risk
+CD-11920,Carlos Daly,Consumer,41,5,2033.97,426.66,Recent buyers
+CD-11980,Carol Darley,Consumer,55,3,639.77,-206.72,Lost / Low value
+CD-12280,Christina DeMoss,Consumer,43,2,1205.58,233.03,Lost / Low value
+CD-12790,Cynthia Delaney,Home Office,400,5,1860.73,403.84,At risk
+CG-12040,Catherine Glotzbach,Home Office,50,6,904.47,86.51,At risk
+CG-12520,Claire Gute,Consumer,339,3,1148.78,169.93,At risk
+CH-12070,Cathy Hwang,Home Office,692,3,1537.24,195.15,At risk
+CJ-11875,Carl Jackson,Corporate,366,1,16.52,1.65,Lost / Low value
+CJ-12010,Caroline Jumper,Consumer,190,8,11164.97,858.74,Champions
+CK-12205,Chloris Kastensmidt,Consumer,40,13,3154.86,141.28,Champions
+CK-12325,Christine Kargatis,Home Office,121,5,2945.32,261.22,At risk
+CK-12595,Clytie Kelty,Consumer,44,11,2372.75,497.71,Champions
+CK-12760,Cyma Kinney,Corporate,83,9,1582.11,-338.43,Champions
+CL-11890,Carl Ludwig,Consumer,107,4,1262.01,328.08,At risk
+CL-12565,Clay Ludtke,Consumer,285,12,10880.55,1933.78,Champions
+CL-12700,Craig Leslie,Home Office,106,5,2353.59,229.01,At risk
+CM-11815,Candace McMahon,Corporate,132,6,1673.89,214.46,At risk
+CM-11935,Carlos Meador,Consumer,709,2,565.39,-43.73,Lost / Low value
+CM-12115,Chad McGuire,Consumer,9,4,1661.61,409.07,Recent buyers
+CM-12160,Charles McCrossin,Consumer,27,6,2533.31,-394.37,Recent buyers
+CM-12190,Charlotte Melton,Consumer,9,6,1475.14,91.2,Recent buyers
+CM-12235,Chris McAfee,Consumer,386,5,2305.71,365.04,At risk
+CM-12385,Christopher Martinez,Consumer,38,4,8954.02,3899.89,Recent buyers
+CM-12445,Chuck Magee,Consumer,437,3,287.99,64.43,Lost / Low value
+CM-12655,Corinna Mitchell,Home Office,28,6,6339.56,1572.46,Recent buyers
+CM-12715,Craig Molinari,Corporate,1036,4,3984.45,176.31,At risk
+CP-12085,Cathy Prescott,Corporate,83,8,5402.25,427.03,Champions
+CP-12340,Christine Phan,Corporate,161,8,5888.27,-1850.3,Champions
+CR-12580,Clay Rozendal,Home Office,58,4,2148.85,74.4,At risk
+CR-12625,Corey Roper,Home Office,471,3,475.9,144.76,Lost / Low value
+CR-12730,Craig Reiter,Consumer,79,4,1600.55,306.92,At risk
+CR-12820,Cyra Reiten,Home Office,86,3,1397.87,83.27,At risk
+CS-11845,Cari Sayre,Corporate,92,5,1278.95,185.38,At risk
+CS-11860,Cari Schnelling,Consumer,163,6,537.63,105.83,At risk
+CS-11950,Carlos Soltero,Consumer,26,11,3036.55,-126.42,Champions
+CS-12130,Chad Sievert,Consumer,490,4,884.64,143.83,At risk
+CS-12175,Charles Sheldon,Corporate,233,5,844.46,113.14,At risk
+CS-12250,Chris Selesnick,Corporate,27,12,2754.22,738.36,Champions
+CS-12355,Christine Sundaresam,Consumer,7,11,3202.16,831.94,Recent buyers
+CS-12400,Christopher Schild,Home Office,3,9,3651.86,-342.8,Recent buyers
+CS-12460,Chuck Sachs,Consumer,28,2,550.64,156.26,Lost / Low value
+CS-12490,Cindy Schnelling,Corporate,425,4,1077.23,-302.88,At risk
+CS-12505,Cindy Stewart,Consumer,59,6,5690.05,-6626.39,Champions
+CT-11995,Carol Triggs,Consumer,97,8,3241.9,161.23,Champions
+CV-12295,Christina VanderZanden,Consumer,255,5,2830.63,493.09,At risk
+CV-12805,Cynthia Voltz,Corporate,6,9,2370.31,99.0,Recent buyers
+CW-11905,Carl Weiss,Home Office,23,6,1136.59,370.83,Recent buyers
+CY-12745,Craig Yedwab,Corporate,61,8,2900.03,60.65,Champions
+Co-12640,Corey-Lock,Consumer,550,5,1300.08,205.63,At risk
+DA-13450,Dianna Arnett,Home Office,353,4,156.76,56.79,Lost / Low value
+DB-12910,Daniel Byrd,Home Office,22,8,2171.6,431.37,Recent buyers
+DB-12970,Darren Budd,Corporate,242,5,2839.23,213.0,At risk
+DB-13060,Dave Brooks,Consumer,17,7,4531.65,473.03,Recent buyers
+DB-13120,David Bremer,Corporate,49,7,2973.09,-1421.77,Champions
+DB-13210,Dean Braden,Consumer,10,10,2332.58,169.97,Recent buyers
+DB-13270,Deborah Brumfield,Home Office,54,8,4655.9,841.83,Champions
+DB-13360,Dennis Bolton,Home Office,265,5,1081.47,291.01,At risk
+DB-13405,Denny Blanton,Consumer,188,4,1711.69,438.91,At risk
+DB-13555,Dorothy Badders,Corporate,108,7,3908.8,109.33,Champions
+DB-13615,Doug Bickford,Consumer,34,7,1989.05,438.8,Recent buyers
+DB-13660,Duane Benoit,Consumer,13,7,1155.2,177.67,Recent buyers
+DC-12850,Dan Campbell,Consumer,38,9,3336.17,-1441.63,Champions
+DC-13285,Debra Catini,Consumer,24,5,1174.62,132.07,Recent buyers
+DD-13570,Dorothy Dickinson,Consumer,42,6,269.54,36.43,At risk
+DE-13255,Deanra Eno,Home Office,720,5,2550.87,464.47,At risk
+DF-13135,David Flashing,Consumer,701,3,2390.53,-259.31,At risk
+DG-13300,Deirdre Greer,Corporate,33,5,3195.82,562.78,Recent buyers
+DH-13075,Dave Hallsten,Corporate,278,6,4932.87,1193.74,At risk
+DH-13675,Duane Huffman,Home Office,777,4,1043.1,116.67,At risk
+DJ-13420,Denny Joy,Corporate,638,4,2012.52,483.04,At risk
+DJ-13510,Don Jones,Corporate,49,8,2501.69,345.25,Champions
+DJ-13630,Doug Jacobs,Consumer,13,3,3356.4,731.56,Recent buyers
+DK-12835,Damala Kotsonis,Corporate,22,12,3256.48,881.12,Champions
+DK-12895,Dana Kaydos,Consumer,46,5,4282.18,937.65,Recent buyers
+DK-12985,Darren Koutras,Consumer,8,5,1687.04,-107.35,Recent buyers
+DK-13090,Dave Kipp,Consumer,43,7,2650.56,536.39,Champions
+DK-13150,David Kendrick,Corporate,11,2,797.83,249.94,Lost / Low value
+DK-13225,Dean Katz,Corporate,11,9,4802.39,209.9,Recent buyers
+DK-13375,Dennis Kane,Consumer,20,8,3318.49,377.08,Recent buyers
+DL-12865,Dan Lawera,Consumer,101,8,1503.11,322.24,Champions
+DL-12925,Daniel Lacy,Consumer,58,6,3272.2,4.21,Champions
+DL-13315,Delfina Latchford,Consumer,23,8,1458.26,288.87,Recent buyers
+DL-13330,Denise Leinenbach,Consumer,58,4,585.02,222.68,At risk
+DL-13495,Dionis Lloyd,Corporate,77,8,3539.32,-52.79,Champions
+DM-12955,Dario Medina,Corporate,115,7,1322.03,108.76,At risk
+DM-13015,Darrin Martin,Consumer,58,7,6345.1,1677.39,Champions
+DM-13345,Denise Monton,Corporate,23,8,4074.47,1319.06,Recent buyers
+DM-13525,Don Miller,Corporate,482,3,1376.79,199.77,At risk
+DN-13690,Duane Noonan,Consumer,218,7,2139.79,540.54,At risk
+DO-13435,Denny Ordway,Consumer,134,9,1300.03,-38.91,Champions
+DO-13645,Doug O'Connell,Consumer,27,7,1267.32,294.07,Recent buyers
+DP-13000,Darren Powers,Consumer,127,9,1050.64,241.45,Champions
+DP-13105,Dave Poirier,Corporate,7,8,2215.0,563.18,Recent buyers
+DP-13165,David Philippe,Consumer,813,2,1058.62,-40.94,Lost / Low value
+DP-13390,Dennis Pardue,Home Office,359,9,5480.72,1571.83,Champions
+DR-12880,Dan Reichenbach,Corporate,4,9,6528.03,1641.86,Recent buyers
+DR-12940,Daniel Raglin,Home Office,51,8,8350.87,2869.08,Champions
+DS-13030,Darrin Sayre,Home Office,94,4,1762.21,193.33,At risk
+DS-13180,David Smith,Corporate,24,9,2881.81,163.7,Recent buyers
+DV-13045,Darrin Van Huff,Corporate,20,5,1119.48,-427.18,Recent buyers
+DV-13465,Dianna Vittorini,Consumer,30,6,3341.59,353.21,Recent buyers
+DW-13195,David Wiener,Corporate,70,6,1080.75,-86.87,At risk
+DW-13480,Dianna Wilson,Home Office,218,5,5271.63,1348.76,At risk
+DW-13540,Don Weiss,Consumer,99,5,344.08,69.67,At risk
+DW-13585,Dorothy Wardle,Corporate,243,7,1204.85,-266.9,At risk
+Dl-13600,Dorris liebe,Corporate,120,5,755.6,175.24,At risk
+Dp-13240,Dean percer,Home Office,85,11,7198.76,333.36,Champions
+EA-14035,Erin Ashbrook,Corporate,153,13,2846.7,-52.74,Champions
+EB-13705,Ed Braxton,Corporate,49,9,3644.98,13.62,Champions
+EB-13750,Edward Becker,Corporate,36,10,3236.31,-80.29,Champions
+EB-13840,Ellis Ballard,Corporate,91,5,4358.13,656.2,At risk
+EB-13870,Emily Burns,Consumer,101,10,2767.22,261.53,Champions
+EB-13930,Eric Barreto,Consumer,162,5,944.6,0.6,At risk
+EB-13975,Erica Bern,Corporate,1,4,1643.26,162.88,Recent buyers
+EB-14110,Eugene Barchas,Consumer,114,6,3071.13,184.77,At risk
+EB-14170,Evan Bailliet,Consumer,83,6,1186.33,282.17,At risk
+EC-14050,Erin Creighton,Consumer,54,5,461.91,96.43,At risk
+ED-13885,Emily Ducich,Home Office,136,8,3484.92,670.44,Champions
+EG-13900,Emily Grady,Consumer,23,5,1832.02,104.27,Recent buyers
+EH-13765,Edward Hooks,Corporate,136,12,10310.88,1393.52,Champions
+EH-13945,Eric Hoffmann,Consumer,218,8,684.17,53.54,At risk
+EH-13990,Erica Hackney,Consumer,406,6,825.95,150.38,At risk
+EH-14005,Erica Hernandez,Home Office,3,7,1219.53,-94.14,Recent buyers
+EH-14125,Eugene Hildebrand,Home Office,153,10,3082.65,96.27,Champions
+EH-14185,Evan Henry,Consumer,106,6,923.88,242.11,At risk
+EJ-13720,Ed Jacobs,Consumer,303,4,2162.17,387.02,At risk
+EJ-14155,Eva Jacobs,Consumer,58,5,2656.69,451.88,At risk
+EK-13795,Eileen Kiefer,Home Office,45,4,1303.48,97.11,At risk
+EL-13735,Ed Ludwig,Home Office,78,2,124.28,27.12,Lost / Low value
+EM-13810,Eleni McCrary,Corporate,133,5,2567.01,-133.83,At risk
+EM-13825,Elizabeth Moffitt,Corporate,56,8,2339.6,682.55,Champions
+EM-13960,Eric Murdock,Consumer,152,5,933.7,102.3,At risk
+EM-14065,Erin Mull,Consumer,48,4,228.99,40.15,Lost / Low value
+EM-14095,Eudokia Martin,Corporate,114,4,1041.04,240.24,At risk
+EM-14140,Eugene Moren,Home Office,49,6,4588.44,1319.37,Champions
+EM-14200,Evan Minnotte,Home Office,159,3,366.82,21.77,Lost / Low value
+EN-13780,Edward Nazzal,Consumer,288,4,2199.37,496.11,At risk
+EP-13915,Emily Phan,Consumer,13,17,5478.06,144.96,Champions
+ER-13855,Elpida Rittenbach,Corporate,422,3,1245.79,-295.74,At risk
+ES-14020,Erica Smith,Consumer,41,5,3510.46,1003.29,Recent buyers
+ES-14080,Erin Smith,Corporate,29,9,4657.92,246.67,Champions
+FA-14230,Frank Atkinson,Corporate,98,7,2984.05,520.52,Champions
+FC-14245,Frank Carlisle,Home Office,71,7,3418.74,1217.17,Champions
+FC-14335,Fred Chung,Corporate,185,7,3889.37,714.29,Champions
+FG-14260,Frank Gastineau,Home Office,35,7,1383.14,394.74,Recent buyers
+FH-14275,Frank Hawley,Corporate,38,10,4256.27,1073.27,Champions
+FH-14350,Fred Harton,Consumer,213,4,2271.28,706.29,At risk
+FH-14365,Fred Hopkins,Corporate,6,8,6987.2,2050.28,Recent buyers
+FM-14215,Filia McAdams,Corporate,8,10,2456.64,249.68,Recent buyers
+FM-14290,Frank Merwin,Home Office,37,9,3736.2,198.11,Champions
+FM-14380,Fred McMath,Consumer,146,9,2523.27,191.49,Champions
+FO-14305,Frank Olsen,Consumer,39,10,2678.44,215.6,Champions
+FP-14320,Frank Preis,Consumer,24,8,4046.75,406.45,Recent buyers
+FW-14395,Fred Wasserman,Corporate,363,3,79.75,23.49,Lost / Low value
+GA-14515,George Ashbrook,Consumer,150,8,3919.78,840.9,Champions
+GA-14725,Guy Armstrong,Consumer,6,11,1398.38,136.71,Recent buyers
+GB-14530,George Bell,Corporate,63,11,1568.44,7.84,Champions
+GB-14575,Giulietta Baptist,Consumer,14,5,4716.29,1135.84,Recent buyers
+GD-14590,Giulietta Dortch,Corporate,6,4,1888.07,230.94,Recent buyers
+GG-14650,Greg Guthrie,Corporate,44,9,2224.0,12.7,Champions
+GH-14410,Gary Hansen,Home Office,76,9,2819.47,-576.83,Champions
+GH-14425,Gary Hwang,Consumer,51,4,4172.85,1176.42,At risk
+GH-14485,Gene Hale,Corporate,388,2,1361.24,-95.45,Lost / Low value
+GH-14665,Greg Hansen,Consumer,3,2,146.94,-5.81,Lost / Low value
+GK-14620,Grace Kelly,Corporate,113,9,6497.27,1448.55,Champions
+GM-14440,Gary McGarr,Consumer,84,7,3582.82,347.27,Champions
+GM-14455,Gary Mitchum,Home Office,17,6,3078.62,793.28,Recent buyers
+GM-14500,Gene McClure,Consumer,107,10,1255.68,441.32,Champions
+GM-14680,Greg Matthias,Consumer,153,6,3163.63,35.49,At risk
+GM-14695,Greg Maxwell,Corporate,118,3,6049.97,188.72,At risk
+GP-14740,Guy Phonely,Corporate,766,2,236.53,31.84,Lost / Low value
+GR-14560,Georgia Rosenberg,Corporate,1136,2,1284.38,359.83,Lost / Low value
+GT-14635,Grant Thornton,Corporate,57,3,9351.21,-4108.66,At risk
+GT-14710,Greg Tran,Consumer,37,11,11820.12,2163.43,Champions
+GT-14755,Guy Thornton,Consumer,35,4,226.44,-6.14,Lost / Low value
+GW-14605,Giulietta Weimer,Consumer,29,7,2189.02,-268.54,Recent buyers
+GZ-14470,Gary Zandusky,Consumer,8,9,4355.15,1087.75,Recent buyers
+GZ-14545,George Zrebassa,Corporate,158,4,2454.62,828.66,At risk
+HA-14905,Helen Abelman,Consumer,70,7,2163.3,270.86,Champions
+HA-14920,Helen Andreada,Consumer,21,8,2584.16,99.14,Recent buyers
+HD-14785,Harold Dahlen,Home Office,770,3,251.36,-135.88,Lost / Low value
+HE-14800,Harold Engle,Corporate,13,4,883.53,274.4,Recent buyers
+HF-14995,Herbert Flentye,Consumer,22,7,2533.16,-13.88,Recent buyers
+HG-14845,Harry Greene,Consumer,55,5,785.63,147.0,At risk
+HG-14965,Henry Goldwyn,Corporate,24,12,3247.64,-2797.96,Champions
+HG-15025,Hunter Glantz,Consumer,7,7,3690.28,804.61,Recent buyers
+HH-15010,Hilary Holden,Corporate,73,2,218.67,86.73,Lost / Low value
+HJ-14875,Heather Jas,Home Office,127,5,358.1,98.65,At risk
+HK-14890,Heather Kirkland,Corporate,152,8,4877.78,956.95,Champions
+HL-15040,Hunter Lopez,Consumer,44,6,12873.3,5622.43,Champions
+HM-14860,Harry Marie,Corporate,3,10,8236.76,2437.98,Recent buyers
+HM-14980,Henry MacAllister,Consumer,248,4,736.28,117.28,At risk
+HP-14815,Harold Pawlan,Home Office,31,7,1990.31,373.86,Recent buyers
+HR-14770,Hallie Redmond,Home Office,14,5,1299.29,185.58,Recent buyers
+HR-14830,Harold Ryan,Corporate,160,7,5248.79,1196.95,Champions
+HW-14935,Helen Wasserman,Corporate,118,8,9300.25,2164.16,Champions
+HZ-14950,Henia Zydlo,Consumer,36,5,886.52,-130.39,Recent buyers
+IG-15085,Ivan Gibson,Consumer,72,4,744.57,320.5,At risk
+IL-15100,Ivan Liston,Consumer,143,7,5040.74,1121.94,Champions
+IM-15055,Ionia McGrath,Consumer,410,3,2872.63,975.77,At risk
+IM-15070,Irene Maddox,Consumer,391,7,4930.47,514.65,Champions
+JA-15970,Joseph Airdo,Consumer,93,8,6491.03,-819.42,Champions
+JB-15400,Jennifer Braxton,Corporate,8,10,1791.61,156.05,Recent buyers
+JB-15925,Joni Blumstein,Consumer,738,3,900.55,-286.98,Lost / Low value
+JB-16000,Joy Bell-,Consumer,44,7,644.12,126.76,Recent buyers
+JB-16045,Julia Barnett,Home Office,8,5,2518.12,201.52,Recent buyers
+JC-15340,Jasper Cacioppo,Consumer,115,4,71.26,-0.36,Lost / Low value
+JC-15385,Jenna Caffey,Consumer,176,1,1058.11,502.92,Lost / Low value
+JC-15775,John Castell,Consumer,159,9,2772.05,279.57,Champions
+JC-16105,Julie Creighton,Corporate,58,5,858.58,201.6,At risk
+JD-15790,John Dryer,Consumer,118,5,2152.35,-266.55,At risk
+JD-15895,Jonathan Doherty,Corporate,395,11,7610.86,1050.27,Champions
+JD-16015,Joy Daniels,Consumer,113,6,385.43,26.76,At risk
+JD-16060,Julia Dunbar,Consumer,301,3,695.44,111.11,Lost / Low value
+JD-16150,Justin Deggeller,Corporate,42,8,8828.03,1619.52,Champions
+JE-15475,Jeremy Ellison,Consumer,194,6,1388.68,276.22,At risk
+JE-15610,Jim Epp,Corporate,49,7,7754.98,1623.4,Champions
+JE-15715,Joe Elijah,Consumer,47,10,8697.84,1262.29,Champions
+JE-15745,Joel Eaton,Consumer,52,13,6760.81,221.8,Champions
+JE-16165,Justin Ellison,Corporate,21,3,2697.25,789.65,Recent buyers
+JF-15190,Jamie Frazer,Consumer,66,7,2279.59,575.13,Champions
+JF-15295,Jason Fortune-,Consumer,226,5,955.12,97.29,At risk
+JF-15355,Jay Fein,Consumer,106,6,1911.84,330.2,At risk
+JF-15415,Jennifer Ferguson,Consumer,3,6,2371.45,635.64,Recent buyers
+JF-15490,Jeremy Farry,Consumer,122,11,1082.92,-18.07,Champions
+JF-15565,Jill Fjeld,Consumer,55,8,4198.33,1073.21,Champions
+JG-15115,Jack Garza,Consumer,759,3,2358.68,684.19,At risk
+JG-15160,James Galang,Consumer,2,11,6366.39,1415.67,Recent buyers
+JG-15310,Jason Gross,Corporate,3,6,2240.58,3.8,Recent buyers
+JG-15805,John Grady,Corporate,224,6,1507.02,206.1,At risk
+JH-15430,Jennifer Halladay,Consumer,6,4,309.28,-24.08,Recent buyers
+JH-15820,John Huston,Consumer,175,6,528.91,26.08,At risk
+JH-15910,Jonathan Howell,Consumer,42,7,959.48,-13.55,Recent buyers
+JH-15985,Joseph Holt,Consumer,30,6,7955.0,-644.7,Champions
+JH-16180,Justin Hirsh,Consumer,405,4,2256.39,-96.95,At risk
+JJ-15445,Jennifer Jackson,Consumer,484,5,709.18,200.56,At risk
+JJ-15760,Joel Jenkins,Home Office,754,2,195.0,34.45,Lost / Low value
+JK-15205,Jamie Kunitz,Consumer,62,5,4427.14,1219.98,Champions
+JK-15325,Jason Klamczynski,Corporate,288,3,383.81,55.33,Lost / Low value
+JK-15370,Jay Kimmel,Consumer,45,8,2709.63,330.28,Champions
+JK-15625,Jim Karlsson,Consumer,62,7,3760.03,750.95,Champions
+JK-15640,Jim Kriz,Home Office,181,9,4760.43,1172.53,Champions
+JK-15730,Joe Kamberova,Consumer,85,10,4867.2,55.05,Champions
+JK-16090,Juliana Krohn,Consumer,29,3,3747.67,586.66,Recent buyers
+JK-16120,Julie Kriz,Home Office,118,10,2932.48,122.66,Champions
+JL-15130,Jack Lebron,Consumer,9,6,1214.96,-207.8,Recent buyers
+JL-15175,James Lanier,Home Office,7,5,1571.52,209.28,Recent buyers
+JL-15235,Janet Lee,Consumer,120,5,2203.7,54.52,At risk
+JL-15505,Jeremy Lonsdale,Consumer,50,6,3173.87,591.72,Champions
+JL-15835,John Lee,Consumer,22,11,9799.92,228.91,Champions
+JL-15850,John Lucas,Consumer,615,6,2725.26,779.9,At risk
+JM-15250,Janet Martin,Consumer,38,6,3159.12,19.82,Recent buyers
+JM-15265,Janet Molinari,Corporate,38,5,1804.15,502.61,Recent buyers
+JM-15535,Jessica Myrick,Consumer,103,7,1733.44,356.54,At risk
+JM-15580,Jill Matthias,Consumer,1,5,303.95,113.12,Recent buyers
+JM-15655,Jim Mitchum,Corporate,9,5,864.95,117.2,Recent buyers
+JM-15865,John Murray,Consumer,110,7,7625.08,1574.62,Champions
+JM-16195,Justin MacKendrick,Consumer,58,10,2833.93,754.11,Champions
+JO-15145,Jack O'Briant,Corporate,58,9,3254.95,581.4,Champions
+JO-15280,Jas O'Carroll,Consumer,93,6,1934.27,202.14,At risk
+JO-15550,Jesus Ocampo,Home Office,216,5,1090.84,167.67,At risk
+JP-15460,Jennifer Patt,Corporate,38,7,1669.13,429.75,Recent buyers
+JP-15520,Jeremy Pistek,Consumer,9,7,3635.59,757.18,Recent buyers
+JP-16135,Julie Prescott,Home Office,103,9,1707.71,309.71,Champions
+JR-15670,Jim Radford,Consumer,594,2,1156.66,-785.16,Lost / Low value
+JR-15700,Jocasta Rupert,Consumer,69,1,863.88,107.98,Lost / Low value
+JR-16210,Justin Ritter,Corporate,34,5,2201.69,452.37,Recent buyers
+JS-15595,Jill Stevenson,Corporate,120,4,1417.65,-175.55,At risk
+JS-15685,Jim Sink,Corporate,43,4,1131.06,-54.87,At risk
+JS-15880,John Stevenson,Consumer,535,5,3868.02,564.98,At risk
+JS-15940,Joni Sundaresam,Home Office,464,5,469.17,-327.93,At risk
+JS-16030,Joy Smith,Consumer,29,6,2516.49,-311.26,Recent buyers
+JW-15220,Jane Waco,Corporate,43,6,7721.71,2173.71,Champions
+JW-15955,Joni Wasserman,Consumer,6,7,1244.09,-29.58,Recent buyers
+JW-16075,Julia West,Consumer,462,4,1428.73,154.06,At risk
+KA-16525,Kelly Andreada,Consumer,37,7,1519.51,234.92,Recent buyers
+KB-16240,Karen Bern,Corporate,5,7,3152.61,763.91,Recent buyers
+KB-16315,Karl Braun,Consumer,297,9,1569.46,49.72,Champions
+KB-16405,Katrina Bavinger,Home Office,118,3,908.82,274.3,At risk
+KB-16585,Ken Black,Corporate,231,12,2744.74,579.36,Champions
+KB-16600,Ken Brennan,Corporate,2,7,983.92,293.55,Recent buyers
+KC-16255,Karen Carlisle,Corporate,408,6,2120.95,846.12,At risk
+KC-16540,Kelly Collister,Consumer,98,4,3908.26,709.42,At risk
+KC-16675,Kimberly Carter,Corporate,58,4,1146.05,156.78,At risk
+KD-16270,Karen Daniels,Consumer,485,5,8282.36,1107.7,At risk
+KD-16345,Katherine Ducich,Consumer,42,6,1888.96,328.59,Recent buyers
+KD-16495,Keith Dawkins,Corporate,113,12,8181.26,3038.63,Champions
+KD-16615,Ken Dana,Corporate,290,5,2243.51,539.72,At risk
+KE-16420,Katrina Edelman,Corporate,27,8,1686.73,397.88,Recent buyers
+KF-16285,Karen Ferguson,Home Office,98,7,10604.27,1660.14,Champions
+KH-16330,Katharine Harms,Corporate,41,8,3312.86,454.79,Champions
+KH-16360,Katherine Hughes,Consumer,2,6,3100.61,528.21,Recent buyers
+KH-16510,Keith Herrera,Consumer,23,7,5952.86,656.12,Recent buyers
+KH-16630,Ken Heidel,Corporate,59,9,3918.97,727.38,Champions
+KH-16690,Kristen Hastings,Corporate,3,7,5990.8,1227.51,Recent buyers
+KL-16555,Kelly Lampkin,Corporate,17,8,5016.49,-182.78,Recent buyers
+KL-16645,Ken Lonsdale,Consumer,48,12,14175.23,806.85,Champions
+KM-16225,Kalyca Meade,Corporate,15,6,2260.96,635.11,Recent buyers
+KM-16375,Katherine Murray,Home Office,57,8,5620.19,973.79,Champions
+KM-16660,Khloe Miller,Consumer,16,5,453.54,91.14,Recent buyers
+KM-16720,Kunst Miller,Consumer,29,8,4909.47,745.77,Champions
+KN-16390,Katherine Nockton,Corporate,20,9,2617.27,-151.15,Recent buyers
+KN-16450,Kean Nguyen,Corporate,53,5,2171.96,114.31,At risk
+KN-16705,Kristina Nunn,Home Office,99,8,2280.58,329.76,Champions
+KS-16300,Karen Seio,Corporate,296,3,88.47,0.11,Lost / Low value
+KT-16465,Kean Takahito,Consumer,392,7,3057.1,254.0,At risk
+KT-16480,Kean Thornton,Consumer,101,10,4642.09,194.07,Champions
+KW-16435,Katrina Willman,Consumer,97,5,4416.52,1756.13,At risk
+KW-16570,Kelly Williams,Consumer,772,4,449.1,107.93,Lost / Low value
+LA-16780,Laura Armstrong,Corporate,155,11,8673.22,2059.12,Champions
+LB-16735,Larry Blacks,Consumer,49,3,50.19,18.65,Lost / Low value
+LB-16795,Laurel Beltran,Home Office,153,8,4985.68,-52.19,Champions
+LC-16870,Lena Cacioppo,Consumer,28,8,2580.7,-188.25,Recent buyers
+LC-16885,Lena Creighton,Consumer,17,12,7663.13,1288.35,Champions
+LC-16930,Linda Cazamias,Corporate,42,8,4492.95,288.27,Champions
+LC-16960,Lindsay Castell,Home Office,437,4,3246.63,299.48,At risk
+LC-17050,Liz Carlisle,Consumer,55,5,2095.06,86.78,At risk
+LC-17140,Logan Currie,Consumer,14,9,2633.58,231.13,Recent buyers
+LD-16855,Lela Donovan,Corporate,553,1,5.3,0.46,Lost / Low value
+LD-17005,Lisa DeCherney,Consumer,415,4,1961.93,557.17,At risk
+LE-16810,Laurel Elliston,Consumer,22,6,1469.45,161.76,Recent buyers
+LF-17185,Luke Foster,Consumer,23,7,3930.51,-3583.98,Recent buyers
+LH-16750,Larry Hughes,Consumer,152,3,287.43,12.63,Lost / Low value
+LH-16900,Lena Hernandez,Consumer,22,9,2295.33,526.07,Recent buyers
+LH-17020,Lisa Hazard,Consumer,240,4,318.24,-242.74,Lost / Low value
+LH-17155,Logan Haushalter,Consumer,386,9,1739.69,316.52,Champions
+LL-16840,Lauren Leatherbury,Consumer,250,6,2741.2,560.01,At risk
+LM-17065,Liz MacKendrick,Consumer,392,5,1346.77,-44.88,At risk
+LO-17170,Lori Olson,Corporate,3,5,644.35,150.17,Recent buyers
+LP-17080,Liz Pelletier,Consumer,41,4,756.61,110.78,At risk
+LP-17095,Liz Preis,Consumer,10,7,3653.4,338.45,Recent buyers
+LR-16915,Lena Radford,Consumer,27,6,5142.89,535.48,Recent buyers
+LR-17035,Lisa Ryan,Corporate,133,5,1879.31,-382.81,At risk
+LS-16945,Linda Southworth,Corporate,179,6,2845.27,-318.77,At risk
+LS-16975,Lindsay Shagiari,Home Office,21,9,2988.67,262.64,Recent buyers
+LS-17200,Luke Schmidt,Corporate,97,6,1010.26,244.2,At risk
+LS-17230,Lycoris Saunders,Consumer,778,3,368.88,39.2,Lost / Low value
+LS-17245,Lynn Smith,Consumer,35,6,1008.14,348.36,Recent buyers
+LT-16765,Larry Tron,Consumer,27,3,329.88,59.04,Lost / Low value
+LT-17110,Liz Thompson,Consumer,35,8,2936.25,320.97,Champions
+LW-16825,Laurel Workman,Corporate,89,5,2238.06,32.58,At risk
+LW-16990,Lindsay Williams,Corporate,34,6,3230.31,662.83,Recent buyers
+LW-17125,Liz Willingham,Consumer,206,3,1259.04,192.63,At risk
+LW-17215,Luke Weiss,Consumer,22,7,5420.51,837.24,Recent buyers
+MA-17560,Matt Abelman,Home Office,65,11,4299.16,1240.23,Champions
+MA-17995,Michelle Arnett,Home Office,187,6,2453.28,280.78,At risk
+MB-17305,Maria Bertelson,Consumer,49,10,1548.7,212.43,Champions
+MB-18085,Mick Brown,Consumer,45,7,1428.23,117.81,Recent buyers
+MC-17275,Marc Crier,Consumer,77,8,2725.98,461.0,Champions
+MC-17425,Mark Cousins,Corporate,400,5,4432.14,1802.39,At risk
+MC-17575,Matt Collins,Consumer,28,8,1303.89,210.75,Recent buyers
+MC-17590,Matt Collister,Corporate,52,6,2426.07,288.98,Recent buyers
+MC-17605,Matt Connell,Corporate,113,8,2258.19,195.45,Champions
+MC-17635,Matthew Clasen,Corporate,190,4,795.15,-247.94,At risk
+MC-17845,Michael Chen,Consumer,2,7,3805.71,698.42,Recent buyers
+MC-18100,Mick Crebagga,Consumer,42,10,2218.98,-64.17,Champions
+MC-18130,Mike Caudle,Corporate,370,5,1582.0,121.76,At risk
+MD-17350,Maribeth Dona,Consumer,118,7,3766.38,-241.95,Champions
+MD-17860,Michael Dominguez,Corporate,37,5,1204.91,-4.04,Recent buyers
+ME-17320,Maria Etezadi,Home Office,43,10,10663.73,1859.47,Champions
+ME-17725,Max Engle,Consumer,29,8,1908.45,77.81,Recent buyers
+ME-18010,Michelle Ellison,Corporate,93,4,1256.94,107.36,At risk
+MF-17665,Maureen Fritzler,Corporate,422,5,937.04,-341.53,At risk
+MF-18250,Monica Federle,Corporate,8,5,1758.3,456.86,Recent buyers
+MG-17650,Matthew Grinstein,Home Office,30,7,3785.28,341.9,Recent buyers
+MG-17680,Maureen Gastineau,Home Office,93,4,2350.19,25.89,At risk
+MG-17695,Maureen Gnade,Consumer,556,3,1342.28,-398.79,At risk
+MG-17875,Michael Grace,Home Office,117,5,1242.83,-470.77,At risk
+MG-17890,Michael Granlund,Home Office,100,9,776.38,171.74,Champions
+MG-18145,Mike Gockenbach,Consumer,85,4,3061.54,-93.6,At risk
+MG-18205,Mitch Gastineau,Corporate,265,1,16.74,-1.25,Lost / Low value
+MH-17290,Marc Harrigan,Home Office,120,6,2394.03,28.76,At risk
+MH-17440,Mark Haberlin,Corporate,377,4,400.02,61.43,Lost / Low value
+MH-17455,Mark Hamilton,Consumer,86,8,2456.18,484.77,Champions
+MH-17620,Matt Hagelstein,Corporate,156,4,1252.8,122.36,At risk
+MH-17785,Maya Herman,Corporate,99,7,2203.78,238.56,Champions
+MH-18025,Michelle Huthwaite,Consumer,50,5,2984.95,476.9,At risk
+MH-18115,Mick Hernandez,Home Office,6,9,5503.09,170.97,Recent buyers
+MJ-17740,Max Jones,Consumer,23,7,6320.75,1054.55,Recent buyers
+MK-17905,Michael Kennedy,Corporate,29,8,2302.37,-405.36,Recent buyers
+MK-18160,Mike Kennedy,Consumer,241,4,1031.6,227.83,At risk
+ML-17395,Marina Lichtenstein,Corporate,70,9,2722.84,684.92,Champions
+ML-17410,Maris LaWare,Consumer,55,6,2921.5,-76.18,Champions
+ML-17755,Max Ludwig,Home Office,30,7,2071.91,409.51,Recent buyers
+ML-18040,Michelle Lonsdale,Corporate,80,3,742.08,138.72,Lost / Low value
+ML-18265,Muhammed Lee,Consumer,101,2,162.23,42.66,Lost / Low value
+MM-17260,Magdelene Morse,Consumer,169,4,1314.02,178.4,At risk
+MM-17920,Michael Moore,Consumer,8,11,3794.08,82.13,Recent buyers
+MM-18055,Michelle Moray,Consumer,62,8,2749.88,-520.34,Champions
+MM-18280,Muhammed MacIntyre,Corporate,86,9,775.41,58.89,Champions
+MN-17935,Michael Nguyen,Consumer,35,6,2477.95,290.82,Recent buyers
+MO-17500,Mary O'Rourke,Consumer,73,4,922.49,59.36,At risk
+MO-17800,Meg O'Connel,Home Office,105,8,1687.03,169.34,Champions
+MO-17950,Michael Oakman,Consumer,181,2,154.29,-82.01,Lost / Low value
+MP-17470,Mark Packer,Home Office,720,7,3206.13,600.29,At risk
+MP-17965,Michael Paige,Corporate,73,9,3983.64,638.16,Champions
+MP-18175,Mike Pelletier,Home Office,17,9,5087.92,226.45,Recent buyers
+MR-17545,Mathew Reese,Home Office,126,4,639.18,162.94,At risk
+MS-17365,Maribeth Schnelling,Consumer,274,10,7443.69,844.94,Champions
+MS-17530,MaryBeth Skach,Consumer,435,4,475.66,84.03,Lost / Low value
+MS-17710,Maurice Satty,Consumer,414,6,1613.4,247.43,At risk
+MS-17770,Maxwell Schwartz,Consumer,122,9,3144.68,280.86,Champions
+MS-17830,Melanie Seite,Consumer,453,4,370.35,19.43,Lost / Low value
+MS-17980,Michael Stewart,Corporate,27,6,855.12,55.23,Recent buyers
+MT-17815,Meg Tillman,Consumer,50,6,2890.14,509.01,Champions
+MT-18070,Michelle Tran,Home Office,204,4,1319.45,-23.68,At risk
+MV-17485,Mark Van Huff,Consumer,28,9,1560.05,189.03,Recent buyers
+MV-18190,Mike Vittorini,Consumer,20,7,1734.57,273.86,Recent buyers
+MW-18220,Mitch Webber,Consumer,18,7,5341.9,1238.42,Recent buyers
+MW-18235,Mitch Willingham,Corporate,45,2,5253.88,1665.52,At risk
+MY-17380,Maribeth Yedwab,Corporate,30,7,2254.28,319.12,Recent buyers
+MY-18295,Muhammed Yedwab,Corporate,72,11,4152.7,-371.71,Champions
+MZ-17335,Maria Zettner,Home Office,31,4,593.61,85.02,At risk
+MZ-17515,Mary Zewe,Corporate,283,6,2564.91,787.75,At risk
+NB-18580,Nicole Brennan,Corporate,1166,2,273.87,24.79,Lost / Low value
+NB-18655,Nona Balk,Corporate,20,9,1972.6,117.64,Recent buyers
+NC-18340,Nat Carroll,Consumer,225,5,2461.4,580.31,At risk
+NC-18415,Nathan Cano,Consumer,42,6,2218.99,-2204.81,Recent buyers
+NC-18535,Nick Crebassa,Corporate,7,7,8241.74,1314.76,Recent buyers
+NC-18625,Noah Childs,Corporate,205,5,1821.74,-359.02,At risk
+ND-18370,Natalie DeCherney,Consumer,28,9,4326.14,353.65,Champions
+ND-18460,Neil Ducich,Corporate,184,6,2893.45,443.34,At risk
+NF-18385,Natalie Fritzler,Consumer,80,7,8322.83,-1695.97,Champions
+NF-18475,Neil Französisch,Home Office,526,4,377.16,85.93,Lost / Low value
+NF-18595,Nicole Fjeld,Home Office,115,7,2031.47,388.21,Champions
+NG-18355,Nat Gilpin,Corporate,49,5,1869.58,313.63,At risk
+NG-18430,Nathan Gelder,Consumer,49,5,1395.94,217.09,At risk
+NH-18610,Nicole Hansen,Corporate,190,7,2673.29,760.17,Champions
+NK-18490,Neil Knudson,Home Office,71,7,572.05,121.22,At risk
+NL-18310,Nancy Lomonaco,Home Office,59,4,1418.09,343.64,At risk
+NM-18445,Nathan Mautz,Home Office,161,7,6459.34,2751.68,Champions
+NM-18520,Neoma Murray,Consumer,245,10,2161.98,788.95,Champions
+NP-18325,Naresj Patel,Consumer,26,6,5529.62,1208.89,Recent buyers
+NP-18670,Nora Paige,Consumer,59,5,3908.4,514.6,At risk
+NP-18685,Nora Pelletier,Home Office,407,6,1228.7,514.5,At risk
+NP-18700,Nora Preis,Consumer,139,7,7903.18,631.23,Champions
+NR-18550,Nick Radford,Consumer,211,5,2367.28,-25.15,At risk
+NS-18505,Neola Schneider,Consumer,7,4,2575.86,-12.3,Recent buyers
+NS-18640,Noel Staavos,Corporate,175,13,2964.82,-234.77,Champions
+NW-18400,Natalie Webber,Consumer,173,7,7234.01,1023.12,Champions
+NZ-18565,Nick Zandusky,Home Office,86,9,2488.31,402.42,Champions
+ON-18715,Odella Nelson,Corporate,411,9,1567.52,-5.89,At risk
+OT-18730,Olvera Toch,Consumer,66,5,3818.62,-925.12,At risk
+PA-19060,Pete Armstrong,Home Office,104,6,729.41,225.86,At risk
+PB-18805,Patrick Bzostek,Home Office,26,3,740.36,229.23,Lost / Low value
+PB-19105,Peter Bühler,Consumer,58,4,688.32,218.16,At risk
+PB-19150,Philip Brown,Consumer,98,8,1456.95,280.66,Champions
+PB-19210,Phillip Breyer,Corporate,689,2,132.74,21.9,Lost / Low value
+PC-18745,Pamela Coakley,Corporate,3,4,1832.06,272.69,Recent buyers
+PC-19000,Pauline Chand,Home Office,883,2,1061.49,-184.34,Lost / Low value
+PF-19120,Peter Fuller,Consumer,836,4,9062.86,-614.29,At risk
+PF-19165,Philip Fox,Consumer,197,6,2770.0,196.87,At risk
+PF-19225,Phillip Flathmann,Consumer,115,5,2206.13,591.31,At risk
+PG-18820,Patrick Gardner,Consumer,37,13,3086.91,137.46,Champions
+PG-18895,Paul Gonzalez,Consumer,58,9,1987.16,334.52,Champions
+PH-18790,Patricia Hirasaki,Home Office,71,1,729.65,47.89,Lost / Low value
+PJ-18835,Patrick Jones,Corporate,40,8,1220.09,442.14,Recent buyers
+PJ-19015,Pauline Johnson,Consumer,135,7,1824.23,683.0,At risk
+PK-18910,Paul Knutson,Home Office,484,2,1441.15,-798.71,Lost / Low value
+PK-19075,Pete Kriz,Consumer,10,12,8646.93,2038.27,Champions
+PL-18925,Paul Lucas,Home Office,16,5,239.48,-0.75,Recent buyers
+PM-18940,Paul MacIntyre,Consumer,387,3,1405.4,157.88,At risk
+PM-19135,Peter McVee,Home Office,52,4,4115.66,526.75,At risk
+PN-18775,Parhena Norris,Home Office,31,8,1467.15,192.04,Recent buyers
+PO-18850,Patrick O'Brill,Consumer,5,11,7473.83,38.48,Recent buyers
+PO-18865,Patrick O'Donnell,Consumer,1,7,2493.21,437.85,Recent buyers
+PO-19180,Philisse Overcash,Home Office,161,9,4893.04,1155.43,Champions
+PO-19195,Phillina Ober,Home Office,87,5,1056.86,-49.7,At risk
+PP-18955,Paul Prost,Home Office,98,10,7252.61,1495.09,Champions
+PR-18880,Patrick Ryan,Consumer,37,5,1840.18,247.62,Recent buyers
+PS-18760,Pamela Stobb,Consumer,108,6,2181.48,-134.44,At risk
+PS-18970,Paul Stevenson,Home Office,70,8,1278.64,198.51,Champions
+PS-19045,Penelope Sewall,Home Office,237,7,6843.63,1742.73,Champions
+PT-19090,Pete Takahito,Consumer,72,4,160.57,-20.05,Lost / Low value
+PV-18985,Paul Van Hugh,Home Office,90,5,2876.05,434.53,At risk
+PW-19030,Pauline Webber,Corporate,47,10,3454.92,803.82,Champions
+PW-19240,Pierre Wener,Consumer,465,7,3922.41,1290.35,At risk
+QJ-19255,Quincy Jones,Corporate,26,9,6108.34,1203.68,Champions
+RA-19285,Ralph Arnett,Consumer,6,9,2617.91,546.09,Recent buyers
+RA-19885,Ruben Ausman,Corporate,44,7,3832.31,1292.87,Champions
+RA-19915,Russell Applegate,Consumer,13,9,4793.54,304.87,Recent buyers
+RA-19945,Ryan Akin,Consumer,62,5,1686.92,-445.69,At risk
+RB-19330,Randy Bradley,Consumer,69,2,1008.2,-164.41,Lost / Low value
+RB-19360,Raymond Buch,Consumer,97,6,15117.34,6976.1,Champions
+RB-19435,Richard Bierner,Consumer,20,8,2663.09,477.24,Recent buyers
+RB-19465,Rick Bensley,Home Office,10,12,4715.47,640.55,Recent buyers
+RB-19570,Rob Beeghly,Consumer,26,5,528.55,76.89,Recent buyers
+RB-19645,Robert Barroso,Corporate,649,5,221.08,72.68,Lost / Low value
+RB-19705,Roger Barcio,Home Office,55,4,2067.45,243.08,At risk
+RB-19795,Ross Baird,Home Office,33,8,5633.32,-461.73,Champions
+RC-19825,Roy Collins,Consumer,370,6,966.41,63.99,At risk
+RC-19960,Ryan Crowe,Consumer,111,6,885.75,10.56,At risk
+RD-19480,Rick Duston,Consumer,73,8,4272.93,480.59,Champions
+RD-19585,Rob Dowd,Consumer,181,10,2912.89,734.52,Champions
+RD-19660,Robert Dilbeck,Home Office,115,5,2786.63,835.77,At risk
+RD-19720,Roger Demir,Consumer,22,10,1419.74,207.33,Recent buyers
+RD-19810,Ross DeVincentis,Home Office,15,8,1137.62,318.46,Recent buyers
+RD-19900,Ruben Dartt,Consumer,115,9,3133.92,455.53,Champions
+RD-19930,Russell D'Ascenzo,Consumer,43,4,970.94,35.06,At risk
+RE-19405,Ricardo Emerson,Consumer,1098,1,48.36,6.04,Lost / Low value
+RE-19450,Richard Eichhorn,Consumer,303,5,876.7,209.23,At risk
+RF-19345,Randy Ferguson,Corporate,391,8,3309.15,633.71,Champions
+RF-19735,Roland Fjeld,Consumer,90,7,2341.3,711.62,Champions
+RF-19840,Roy Französisch,Consumer,7,8,945.22,280.03,Recent buyers
+RH-19495,Rick Hansen,Consumer,33,5,3621.38,563.79,Recent buyers
+RH-19510,Rick Huthwaite,Home Office,468,6,6979.18,1289.45,At risk
+RH-19555,Ritsa Hightower,Consumer,520,2,740.38,0.31,Lost / Low value
+RH-19600,Rob Haberlin,Consumer,535,3,2085.74,172.63,At risk
+RK-19300,Ralph Kennedy,Consumer,120,3,1460.19,269.69,At risk
+RL-19615,Rob Lucas,Consumer,122,8,6234.91,488.15,Champions
+RM-19375,Raymond Messe,Consumer,346,6,1453.47,392.15,At risk
+RM-19675,Robert Marley,Home Office,7,5,5979.1,1902.54,Recent buyers
+RM-19750,Roland Murray,Consumer,300,1,98.35,28.69,Lost / Low value
+RO-19780,Rose O'Brian,Consumer,36,7,3815.48,-1262.57,Champions
+RP-19270,Rachel Payne,Corporate,497,4,954.65,59.54,At risk
+RP-19390,Resi Pölking,Consumer,34,12,5153.08,465.25,Champions
+RP-19855,Roy Phan,Corporate,29,8,2170.72,594.59,Recent buyers
+RR-19315,Ralph Ritter,Consumer,20,2,615.93,-73.83,Lost / Low value
+RR-19525,Rick Reed,Corporate,171,6,3302.26,721.68,At risk
+RS-19420,Ricardo Sperren,Corporate,77,5,3221.29,633.45,At risk
+RS-19765,Roland Schwarz,Corporate,37,8,4159.77,1206.39,Champions
+RS-19870,Roy Skaria,Home Office,20,2,22.33,9.58,Lost / Low value
+RW-19540,Rick Wilson,Corporate,121,7,7397.4,1586.63,Champions
+RW-19630,Rob Williams,Corporate,90,9,3279.75,698.83,Champions
+RW-19690,Robert Waldorf,Consumer,80,5,3495.65,707.55,At risk
+SA-20830,Sue Ann Reed,Consumer,64,10,4767.34,610.15,Champions
+SB-20170,Sarah Bern,Consumer,202,3,1348.02,157.67,At risk
+SB-20185,Sarah Brown,Consumer,189,6,6411.0,885.46,Champions
+SB-20290,Sean Braxton,Corporate,48,7,8057.89,-2082.75,Champions
+SC-20020,Sam Craven,Consumer,782,5,3362.96,-317.05,At risk
+SC-20050,Sample Company A,Home Office,41,9,4624.57,1011.74,Champions
+SC-20095,Sanjit Chand,Consumer,350,9,14142.33,5757.41,Champions
+SC-20230,Scot Coram,Corporate,150,4,4371.96,440.14,At risk
+SC-20260,Scott Cohen,Corporate,188,8,3729.79,671.0,Champions
+SC-20305,Sean Christensen,Consumer,30,7,3979.07,229.16,Recent buyers
+SC-20380,Shahid Collister,Consumer,31,9,5992.54,236.66,Champions
+SC-20440,Shaun Chance,Corporate,37,7,1875.0,379.56,Recent buyers
+SC-20575,Sonia Cooley,Consumer,93,5,902.73,100.23,At risk
+SC-20680,Steve Carroll,Home Office,127,6,1254.64,370.16,At risk
+SC-20695,Steve Chapman,Corporate,90,10,2576.41,611.83,Champions
+SC-20725,Steven Cartwright,Consumer,188,11,5226.21,1276.65,Champions
+SC-20770,Stewart Carmichael,Corporate,42,7,4492.66,-671.19,Champions
+SC-20800,Stuart Calhoun,Consumer,31,4,279.26,51.83,Lost / Low value
+SC-20845,Sung Chung,Consumer,132,2,280.63,31.18,Lost / Low value
+SD-20485,Shirley Daniels,Home Office,201,9,6121.11,1985.17,Champions
+SE-20110,Sanjit Engle,Consumer,10,11,12209.44,2650.68,Champions
+SF-20065,Sandra Flanagan,Consumer,60,7,763.55,228.16,At risk
+SF-20200,Sarah Foster,Consumer,60,9,3422.79,286.9,Champions
+SF-20965,Sylvia Foulston,Corporate,49,9,3336.54,539.94,Champions
+SG-20080,Sandra Glassco,Consumer,9,3,3406.58,570.44,Recent buyers
+SG-20470,Sheri Gordon,Consumer,184,8,1884.8,-119.01,Champions
+SG-20605,Speros Goranitis,Consumer,109,6,3124.83,463.27,At risk
+SG-20890,Susan Gilcrest,Corporate,227,3,47.95,-3.71,Lost / Low value
+SH-19975,Sally Hughsby,Corporate,30,13,3406.84,558.47,Champions
+SH-20395,Shahid Hopkins,Consumer,24,10,2180.72,-144.52,Recent buyers
+SH-20635,Stefanie Holloman,Corporate,766,2,2096.39,260.63,At risk
+SJ-20125,Sanjit Jacobs,Home Office,96,12,3949.66,144.12,Champions
+SJ-20215,Sarah Jordon,Consumer,30,6,1341.04,-23.51,Recent buyers
+SJ-20500,Shirley Jackson,Consumer,254,5,1318.78,68.1,At risk
+SK-19990,Sally Knutson,Consumer,9,3,883.41,168.79,Recent buyers
+SL-20155,Sara Luxemburg,Home Office,71,7,3053.01,527.97,Champions
+SM-20005,Sally Matthias,Consumer,422,4,244.49,-26.59,Lost / Low value
+SM-20320,Sean Miller,Home Office,80,5,25043.05,-1980.74,Champions
+SM-20905,Susan MacKendrick,Consumer,607,1,1043.04,-237.29,Lost / Low value
+SM-20950,Suzanne McNair,Corporate,26,12,5563.39,581.57,Champions
+SN-20560,Skye Norling,Home Office,112,6,1860.42,-716.86,At risk
+SN-20710,Steve Nguyen,Home Office,80,7,3127.96,481.75,Champions
+SO-20335,Sean O'Donnell,Consumer,30,6,2602.58,-81.09,Recent buyers
+SP-20545,Sibella Parks,Corporate,328,6,1306.09,-118.78,At risk
+SP-20620,Stefania Perrino,Corporate,48,9,5440.32,-270.43,Champions
+SP-20650,Stephanie Phelps,Corporate,387,9,1872.44,268.48,Champions
+SP-20860,Sung Pak,Corporate,80,10,4282.94,566.72,Champions
+SP-20920,Susan Pistek,Consumer,71,6,3990.69,14.69,Champions
+SR-20425,Sharelle Roach,Home Office,9,5,3233.48,-3333.91,Recent buyers
+SR-20740,Steven Roelle,Home Office,197,8,4345.89,1990.42,Champions
+SS-20140,Saphhira Shifley,Corporate,16,8,1324.03,332.35,Recent buyers
+SS-20410,Shahid Shariari,Consumer,111,6,3056.81,-1010.97,At risk
+SS-20515,Shirley Schmidt,Home Office,492,3,613.4,199.93,Lost / Low value
+SS-20590,Sonia Sunley,Consumer,433,6,418.49,135.54,At risk
+SS-20875,Sung Shariari,Consumer,121,5,964.64,-75.59,At risk
+ST-20530,Shui Tom,Consumer,126,7,433.34,84.44,At risk
+SU-20665,Stephanie Ulpright,Home Office,21,7,2595.36,763.47,Recent buyers
+SV-20365,Seth Vernon,Consumer,102,10,11470.95,1199.42,Champions
+SV-20785,Stewart Visinsky,Consumer,321,9,4105.31,485.03,Champions
+SV-20815,Stuart Van,Corporate,77,4,1271.09,199.65,At risk
+SV-20935,Susan Vittorini,Consumer,3,8,1903.49,106.89,Recent buyers
+SW-20245,Scot Wooten,Consumer,82,7,1085.08,-19.61,At risk
+SW-20275,Scott Williamson,Consumer,31,6,1966.65,332.87,Recent buyers
+SW-20350,Sean Wendt,Home Office,163,3,1019.04,95.84,At risk
+SW-20455,Shaun Weien,Consumer,163,7,2921.54,793.65,Champions
+SW-20755,Steven Ward,Corporate,535,2,758.7,68.24,Lost / Low value
+SZ-20035,Sam Zeldin,Home Office,36,11,3625.33,366.43,Champions
+TA-21385,Tom Ashbrook,Home Office,70,4,14595.62,4703.79,Champions
+TB-21055,Ted Butterfield,Consumer,120,5,1467.88,390.21,At risk
+TB-21175,Thomas Boland,Corporate,59,4,3589.3,829.16,At risk
+TB-21190,Thomas Brumley,Home Office,50,4,816.17,179.0,At risk
+TB-21250,Tim Brockman,Consumer,350,7,1602.38,260.62,At risk
+TB-21280,Toby Braunhardt,Consumer,584,6,2198.45,490.96,At risk
+TB-21355,Todd Boyes,Corporate,147,5,834.33,268.97,At risk
+TB-21400,Tom Boeckenhauer,Consumer,203,7,9133.99,2798.37,Champions
+TB-21520,Tracy Blumstein,Consumer,108,9,4737.49,-1603.05,Champions
+TB-21595,Troy Blackwell,Consumer,286,5,1387.56,-136.41,At risk
+TB-21625,Trudy Brown,Consumer,31,9,2797.67,379.88,Champions
+TC-20980,Tamara Chand,Corporate,400,5,19052.22,8981.32,Champions
+TC-21145,Theresa Coyne,Corporate,107,1,1038.26,265.53,Lost / Low value
+TC-21295,Toby Carlisle,Consumer,28,8,4266.81,606.37,Champions
+TC-21475,Tony Chapman,Home Office,154,9,1244.98,119.1,Champions
+TC-21535,Tracy Collins,Home Office,5,7,742.56,217.93,Recent buyers
+TD-20995,Tamara Dahlen,Consumer,38,9,1434.55,88.19,Recent buyers
+TG-21310,Toby Gnade,Consumer,338,5,3058.37,682.17,At risk
+TG-21640,Trudy Glocke,Consumer,115,4,2074.66,365.72,At risk
+TH-21100,Thea Hendricks,Consumer,345,5,2422.82,-135.21,At risk
+TH-21115,Thea Hudgings,Corporate,59,4,2942.77,-252.55,At risk
+TH-21235,Tiffany House,Corporate,118,8,1022.2,92.73,At risk
+TH-21550,Tracy Hopkins,Home Office,73,7,4234.1,-571.97,Champions
+TM-21010,Tamara Manning,Consumer,104,8,2955.23,573.3,Champions
+TM-21490,Tony Molinari,Consumer,131,3,1094.68,292.52,At risk
+TN-21040,Tanja Norvell,Home Office,91,7,3130.22,-692.05,Champions
+TP-21130,Theone Pippenger,Consumer,9,9,4454.06,1129.13,Recent buyers
+TP-21415,Tom Prescott,Consumer,105,5,5329.0,-1087.39,At risk
+TP-21565,Tracy Poddar,Corporate,351,4,1936.64,139.23,At risk
+TR-21325,Toby Ritter,Consumer,194,5,675.94,220.36,At risk
+TS-21085,Thais Sissman,Consumer,358,2,4.83,-3.32,Lost / Low value
+TS-21160,Theresa Swint,Corporate,505,6,2163.62,260.87,At risk
+TS-21205,Thomas Seio,Corporate,199,7,5371.09,862.89,Champions
+TS-21340,Toby Swindell,Consumer,227,5,974.78,-184.98,At risk
+TS-21370,Todd Sumrall,Corporate,37,6,11891.75,2371.71,Champions
+TS-21430,Tom Stivers,Corporate,173,5,2054.14,48.7,At risk
+TS-21505,Tony Sayre,Consumer,12,6,2243.27,11.38,Recent buyers
+TS-21610,Troy Staebel,Consumer,56,7,2820.42,-294.7,Champions
+TS-21655,Trudy Schmidt,Consumer,239,5,3368.09,220.92,At risk
+TT-21070,Ted Trevino,Consumer,32,7,4915.6,751.96,Champions
+TT-21220,Thomas Thornton,Consumer,184,8,1427.04,278.74,At risk
+TT-21265,Tim Taslimi,Corporate,407,3,439.5,93.92,Lost / Low value
+TT-21460,Tonja Turnell,Home Office,13,7,5364.81,1124.5,Recent buyers
+TW-21025,Tamara Willingham,Home Office,65,7,5278.83,737.39,Champions
+TZ-21580,Tracy Zic,Consumer,36,4,1707.29,224.89,At risk
+VB-21745,Victoria Brennan,Corporate,55,6,2005.6,371.24,At risk
+VD-21670,Valerie Dominguez,Consumer,582,6,6442.25,1617.79,At risk
+VF-21715,Vicky Freymann,Home Office,14,5,847.94,-96.28,Recent buyers
+VG-21790,Vivek Gonzalez,Consumer,155,6,846.01,143.63,At risk
+VG-21805,Vivek Grady,Corporate,287,5,427.37,-52.33,At risk
+VM-21685,Valerie Mitchum,Home Office,55,7,2454.87,513.53,Champions
+VM-21835,Vivian Mathis,Consumer,118,5,380.69,116.64,At risk
+VP-21730,Victor Preis,Home Office,31,3,993.9,205.39,At risk
+VP-21760,Victoria Pisteka,Corporate,76,7,3360.53,-1018.78,Champions
+VS-21820,Vivek Sundaresam,Consumer,222,4,1055.98,-262.81,At risk
+VT-21700,Valerie Takahito,Home Office,1001,2,1736.6,-224.09,Lost / Low value
+VW-21775,Victoria Wilson,Corporate,29,10,6134.04,-874.66,Champions
+WB-21850,William Brown,Consumer,21,11,6160.1,714.33,Champions
+XP-21865,Xylona Preis,Consumer,44,11,2374.66,621.23,Champions
+YC-21895,Yoseph Carroll,Corporate,5,5,5454.35,1305.63,Recent buyers
+YS-21880,Yana Sorensen,Corporate,10,8,6720.44,1778.29,Recent buyers
+ZC-21910,Zuschuss Carroll,Consumer,55,13,8025.71,-1032.15,Champions
+ZD-21925,Zuschuss Donatelli,Consumer,203,5,1493.94,249.13,At risk

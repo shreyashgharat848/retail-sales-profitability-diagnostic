@@ -1,0 +1,13 @@
+region,segment,sales,profit,profit_margin_pct,avg_discount_pct
+Central,Consumer,252031.0,8564.0,3.4,25.2
+Central,Corporate,157996.0,18704.0,11.84,24.0
+Central,Home Office,91213.0,12438.0,13.64,20.9
+East,Consumer,350908.0,41191.0,11.74,14.7
+East,Corporate,200409.0,23623.0,11.79,14.4
+East,Home Office,127464.0,26709.0,20.95,14.1
+South,Consumer,195581.0,26914.0,13.76,14.2
+South,Corporate,121886.0,15215.0,12.48,15.8
+South,Home Office,74255.0,4621.0,6.22,14.3
+West,Consumer,362881.0,57451.0,15.83,10.8
+West,Corporate,225855.0,34437.0,15.25,11.4
+West,Home Office,136722.0,16530.0,12.09,10.7

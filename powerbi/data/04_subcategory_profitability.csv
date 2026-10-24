@@ -1,0 +1,18 @@
+category,sub_category,sales,profit,profit_margin_pct,avg_discount_pct,pct_lines_over_20_discount,status
+Furniture,Tables,206966.0,-17725.0,-8.56,26.1,55.2,LOSS-MAKING
+Furniture,Bookcases,114880.0,-3473.0,-3.02,21.1,30.7,LOSS-MAKING
+Office Supplies,Supplies,46674.0,-1189.0,-2.55,7.7,0.0,LOSS-MAKING
+Office Supplies,Fasteners,3024.0,950.0,31.4,8.2,0.0,profitable
+Technology,Machines,189239.0,3385.0,1.79,30.6,46.1,profitable
+Office Supplies,Labels,12486.0,5546.0,44.42,6.9,0.0,profitable
+Office Supplies,Art,27119.0,6528.0,24.07,7.5,0.0,profitable
+Office Supplies,Envelopes,16476.0,6964.0,42.27,8.0,0.0,profitable
+Furniture,Furnishings,91705.0,13059.0,14.24,13.8,14.4,profitable
+Office Supplies,Appliances,107532.0,18138.0,16.87,16.7,14.4,profitable
+Office Supplies,Storage,223844.0,21279.0,9.51,7.5,0.0,profitable
+Furniture,Chairs,328449.0,26590.0,8.1,17.0,25.6,profitable
+Office Supplies,Binders,203413.0,30222.0,14.86,37.2,40.2,profitable
+Office Supplies,Paper,78479.0,34054.0,43.39,7.5,0.0,profitable
+Technology,Accessories,167380.0,41937.0,25.05,7.8,0.0,profitable
+Technology,Phones,330007.0,44516.0,13.49,15.5,12.3,profitable
+Technology,Copiers,149528.0,55618.0,37.2,16.2,13.2,profitable

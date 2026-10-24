@@ -1,0 +1,7 @@
+discount_group,order_lines,profit_margin_pct
+a) no discount,4798,29.51
+b) 0-20% discount,3803,11.91
+c) 20-40% discount,460,-15.3
+d) over 40% discount,933,-77.4
+e) ALL lines over 20% discount,1393,-37.32
+f) ALL lines up to 20% discount,8601,21.8
